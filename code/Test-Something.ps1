@@ -10,6 +10,7 @@ Function Test-Something{
 
     Write-Output $Test
     Write-Debug $Test
+    # comment
 
 
 }
